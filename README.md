@@ -9,3 +9,6 @@ Industrial Defined Project named MY Ad (Version 1.0)
 
 
 The business goals and objectives of this project to develop an Advertisement website. There are two types of users, ADMIN and USERS. As per requirement need to main focus on design and development of the project. Basic functionality of this is that user requests their requirements about what they want in their advertisement (like photos/banners or videos). After successful signup & login process, now its admin task to either accept or reject the request made available in the pool. If admin accepts requests then after a particular period of time, the product will be available to the user and now its user’s call to accept the same or user may give some additional requirements to admin corresponding to the ad. A single user can make multiple advertisement requests and easily contact admin in case of any queries, or issues faced in the functioning of the project.
+
+
+Contact us @ parulg014@gmail.com
